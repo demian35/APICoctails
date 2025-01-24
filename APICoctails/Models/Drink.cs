@@ -1,3 +1,5 @@
+
+using System.Collections.Generic;
 //class that modelating a Drink from de TheCocktailDB to the proyect
 public class Drink{
     public string Name{get; set;} //name of the coctail
